@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on games,apps and machine learning projects.
-- 📫 How to reach me @andrew ondigo.
+- 📫 How to reach me i-omieno on instagram.
 
 <!---
 drew-037/drew-037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
